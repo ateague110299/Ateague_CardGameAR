@@ -10,12 +10,11 @@ public class ImageRecognition : MonoBehaviour
     public GameObject[] placeablePrefabs;
 
     private Dictionary<string, GameObject> spawnedPrefabs = new Dictionary<string, GameObject>();
-    private ARTrackedImageManager trackedImageManager;
+    public ARTrackedImageManager trackedImageManager;
 
     // Start is called before the first frame update
     void Start()
     {
-        trackedImageManager = GetComponent<ARTrackedImageManager>();
         foreach(GameObject prefab in placeablePrefabs)
         {
             GameObject newprefab = Instantiate(prefab, Vector3.zero, Quaternion.identity);
