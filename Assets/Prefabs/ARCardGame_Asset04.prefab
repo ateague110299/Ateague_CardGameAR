@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8091755115164661394}
   - component: {fileID: 780194748097209316}
   m_Layer: 0
-  m_Name: postthiscat
+  m_Name: ARCardGame_Asset04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
