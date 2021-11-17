@@ -462,6 +462,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   placeablePrefabs:
   - {fileID: 6718139711073260195, guid: e283bc67a5377854985afaac90ac2c1c, type: 3}
+  - {fileID: 468874335849673931, guid: 8647b0b374c8752499114f99cc8d94ab, type: 3}
   - {fileID: 4779737173916119321, guid: 91644dca20dc06540b499fd7e020c16f, type: 3}
   - {fileID: 4009320089400755950, guid: 4a610074b8ad6274a89ced0fe9728640, type: 3}
   trackedImageManager: {fileID: 1659859601}
@@ -479,5 +480,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_SerializedLibrary: {fileID: 11400000, guid: 5e7b1d2fab8066c47b955ea3b81d8f1c,
     type: 2}
-  m_MaxNumberOfMovingImages: 2
+  m_MaxNumberOfMovingImages: 6
   m_TrackedImagePrefab: {fileID: 0}
