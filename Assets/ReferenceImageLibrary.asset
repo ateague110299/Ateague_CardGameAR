@@ -21,7 +21,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 6468421631794342880
       m_GuidHigh: 15786716019219039513
-    m_Size: {x: 0.05, y: 0.05}
+    m_Size: {x: 0.14, y: 0.14}
     m_SpecifySize: 1
     m_Name: ARCardGame_Asset01
     m_Texture: {fileID: 0}
@@ -31,7 +31,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 14070374047618541271
       m_GuidHigh: 4910602219411787465
-    m_Size: {x: 0.05, y: 0.05}
+    m_Size: {x: 0.14, y: 0.14}
     m_SpecifySize: 1
     m_Name: ARCardGame_Asset02
     m_Texture: {fileID: 0}
@@ -41,7 +41,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 235368412410401098
       m_GuidHigh: 6713445465070184328
-    m_Size: {x: 0.05, y: 0.05}
+    m_Size: {x: 0.14, y: 0.14}
     m_SpecifySize: 1
     m_Name: ARCardGame_Asset03
     m_Texture: {fileID: 0}
@@ -51,7 +51,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 6058574046946121597
       m_GuidHigh: 1809569914100698216
-    m_Size: {x: 0.05, y: 0.05}
+    m_Size: {x: 0.14, y: 0.14}
     m_SpecifySize: 1
     m_Name: ARCardGame_Asset04
     m_Texture: {fileID: 0}
@@ -61,7 +61,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 2315990484033727438
       m_GuidHigh: 10661136832743127755
-    m_Size: {x: 0.05, y: 0.05}
+    m_Size: {x: 0.14, y: 0.14}
     m_SpecifySize: 1
     m_Name: ARCardGame_Asset05
     m_Texture: {fileID: 0}
@@ -71,7 +71,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 15926013136608672613
       m_GuidHigh: 12292875430462675272
-    m_Size: {x: 0.05, y: 0.05}
+    m_Size: {x: 0.14, y: 0.14}
     m_SpecifySize: 1
     m_Name: ARCardGame_Asset06
     m_Texture: {fileID: 0}
